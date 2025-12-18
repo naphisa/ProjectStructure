@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+#Folders and files I ommitted
+ProjectStructure.Server/appsettings.Development.json
+ProjectStructure.Server/appsettings.json
