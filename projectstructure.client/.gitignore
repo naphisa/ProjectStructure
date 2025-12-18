@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-#Folders and files I ommitted
-ProjectStructure.Server/appsettings.Development.json
-ProjectStructure.Server/appsettings.json
+# Config files
+appsettings.json
+appsettings.*.json
