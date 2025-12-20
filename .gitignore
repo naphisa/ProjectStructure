@@ -363,5 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 #Folders and files I ommitted
-/ProjectStructure.Server/appsettings.Development.json
-/ProjectStructure.Server/appsettings.json
+**/appsettings.json
+appsettings.*.json
